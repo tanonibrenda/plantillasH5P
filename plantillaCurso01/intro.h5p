@@ -1,0 +1,36 @@
+<div class="h5p-course-presentation">
+  <section class="slide">
+    <h1 style="color:#1E7EE4;">¿Qué es la accesibilidad digital?</h1>
+    <p>La accesibilidad digital significa que todas las personas, sin importar sus capacidades, pueden usar y disfrutar de los contenidos en línea. Es diseñar pensando en todos.</p>
+  </section>
+
+  <section class="slide">
+    <h2 style="color:#F1934E;">¿Por qué importa?</h2>
+    <ul>
+      <li>🌍 Porque vivimos en una sociedad digital.</li>
+      <li>🧑‍🦯 Porque millones de personas tienen alguna discapacidad.</li>
+      <li>❤️ Porque la inclusión es un derecho, no un lujo.</li>
+    </ul>
+  </section>
+
+  <section class="slide">
+    <h2 style="color:#1E7EE4;">Ejemplos de barreras comunes</h2>
+    <p>Texto sin contraste, imágenes sin descripción, navegación que depende solo del mouse... Todo esto excluye.</p>
+  </section>
+
+  <section class="slide">
+    <h2 style="color:#F1934E;">¿Qué podemos hacer?</h2>
+    <p>Diseñar con empatía. Usar lectores de pantalla, subtítulos, navegación por teclado, y pruebas con usuarios reales.</p>
+  </section>
+
+  <section class="slide">
+    <h2 style="color:#1E7EE4;">Kyosei: el bien común</h2>
+    <p>En Kyosei creemos que la accesibilidad es parte de la justicia social. Cada decisión cuenta. Cada docente puede ser agente de cambio.</p>
+  </section>
+
+  <section class="slide">
+    <h2 style="color:#F1934E;">¿Y vos?</h2>
+    <p>¿Qué vas a cambiar hoy para que tus contenidos sean más accesibles?</p>
+    <p><em>La accesibilidad empieza con una pregunta: ¿quién está quedando afuera?</em></p>
+  </section>
+</div>
